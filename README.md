@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3 align="center">Hi 👋! I'm segzix, a student from UCAS.</h3>
+<h3 align="center">Hi 👋! I'm segzix, a student from UCAS, nice to meet you on github👋! </h3>
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/segzix">
@@ -12,6 +12,18 @@
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-segzix.github.io-orange" />
     </a>
 </p>
+
+### About Me
+- 👨‍💻 I’m currently working on **Shared virtual Architecture**, **Distributed Systems**, and **RDMA**.
+- 🎓 I’m a student at **UCAS** majoring in **Computer Science**.
+- 🌱 I’m currently learning **Linux**, **Algorithm**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+
+### 📬 Contact Me
+- 📧 Email: [zixuansheng14@gmail.com](mailto:zixuansheng14@gmail.com)
+- 🐦 Twitter: [@segzix](https://twitter.com/segzix)
+- 📘 Facebook: [Shawn Segzix](https://www.facebook.com/profile.php?id=61570377432670)
+- 📱 Telegram: [@Shawn](https://t.me/Shawn)
 
 ### 🏆 Profile Trophy
 
@@ -29,23 +41,5 @@
     <span>&emsp;&emsp;</span>
 </div>
 
-### 📬 Contact Me
-- 📧 Email: [zixuansheng14@gmail.com](mailto:zixuansheng14@gmail.com)
-- 🐦 Twitter: [@segzix](https://twitter.com/segzix)
-- 📘 Facebook: [Shawn Segzix](https://www.facebook.com/profile.php?id=61570377432670)
-- 📱 Telegram: [@Shawn](https://t.me/Shawn)
-
-<!--
-**segzix/segzix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=segzix&theme=radical)
