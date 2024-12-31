@@ -33,6 +33,7 @@
 - 📧 Email: [zixuansheng14@gmail.com](mailto:your.email@example.com)
 - 🐦 Twitter: [@segzix](https://twitter.com/yourusername)
 - 📘 Facebook: [Shawn Segzix](https://www.facebook.com/yourusername123)
+- 📱 Telegram: [@Shawn](https://t.me/johndoe123)
 
 <!--
 **segzix/segzix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
