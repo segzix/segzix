@@ -30,9 +30,9 @@
 </div>
 
 ### 📬 Contact Me
-- 📧 Email: [zixuansheng14@gmail.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@segzix](https://twitter.com/yourusername)
-- 📘 Facebook: [Shawn Segzix](https://www.facebook.com/yourusername123)
+- 📧 Email: [zixuansheng14@gmail.com](mailto:zixuansheng14@gmail.com)
+- 🐦 Twitter: [@segzix](https://twitter.com/segzix)
+- 📘 Facebook: [Shawn Segzix](https://www.facebook.com/profile.php?id=61570377432670)
 - 📱 Telegram: [@Shawn](https://t.me/Shawn)
 
 <!--
