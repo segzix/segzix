@@ -42,4 +42,4 @@
 </div>
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=segzix)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=segzix&theme=radical)
