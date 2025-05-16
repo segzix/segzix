@@ -23,7 +23,7 @@
 - 📧 Email: [zixuansheng14@gmail.com](mailto:zixuansheng14@gmail.com)
 - 🐦 Twitter: [@segzix](https://twitter.com/segzix)
 - 📘 Facebook: [Shawn Segzix](https://www.facebook.com/profile.php?id=61570377432670)
-- 📱 Telegram: [@Shawn](https://t.me/Shawn)
+- 📱 Telegram: [@Shawn](https://t.me/segziixx)
 
 ### 🏆 Profile Trophy
 
